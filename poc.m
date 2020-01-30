@@ -1,15 +1,6 @@
 
 //
-//  main.c
-//  config_ocleak
-//
-//  Created by maldiohead on 2019/1/3.
-//  Copyright © 2019 maldiohead. All rights reserved.
-//
-
-//
-//  main.c
-//  configd_leak
+//  poc.m
 //
 //  Created by maldiohead on 2019/1/3.
 //  Copyright © 2019 maldiohead. All rights reserved.
