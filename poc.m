@@ -276,9 +276,6 @@ void prime_KernelEventMonitor()
 
 
 int main(int argc, const char * argv[]) {
-    
-    struct ifaddrs* if_addrs=NULL;
-    struct ifaddrs*  if_addr=NULL;
     load_KernelEventMonitor();
     prime_KernelEventMonitor();
     dispatch_main();
